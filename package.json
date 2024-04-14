@@ -1,0 +1,17 @@
+{
+  "name": "bits-fsad-fitness-tracker-workout-plan-service",
+  "version": "1.0.0",
+  "description": "Workout Plan service which allows user customize workout as per user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Workout Plan"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
